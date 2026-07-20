@@ -50,11 +50,11 @@ Kalliopi Sakellariou
 
 ### Hierarchical Clustering and Decision Tree
 
-![](output/dendrogramm+decision tree.png)
+![](output/dendrogramm&decision_tree.png)
 
 ### Cluster Profiling
 
-![](output/cluster profiling.png)
+![](output/cluster_profiling.png)
 
 ### Confusion Matrix
 
@@ -66,7 +66,7 @@ Kalliopi Sakellariou
 
 ### Hierarchical Clustering and K-means Comparison with Attrition
 
-![](output/hierarchical and kmeans clusters with attrition.png)
+![](output/hierarchical_and_kmeans_clusters_with_attrition.png)
 
 
 Improve README
